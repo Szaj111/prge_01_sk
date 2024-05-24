@@ -7,25 +7,29 @@ function Dashboard() {
       name: "Janek",
       surname: "Kowalski",
       content: "jakis opis Janka",
-      image: "https://www.wig.wat.edu.pl/images/wladze/kedzierski_wladze.jpg",
+      image:
+        "https://geoforum.pl/upload3/news_pl/picture/328_geodeta_artykul6.jpg",
     },
     {
       name: "Maja",
       surname: "Igła",
       content: "jakis opis Maji",
-      image: "https://www.wig.wat.edu.pl/images/wladze/kedzierski_wladze.jpg",
+      image:
+        "https://geoforum.pl/upload3/news_pl/picture/328_geodeta_artykul6.jpg",
     },
     {
       name: "Dawid",
       surname: "Młotek",
       content: "jakis opis",
-      image: "https://www.wig.wat.edu.pl/images/wladze/kedzierski_wladze.jpg",
+      image:
+        "https://geoforum.pl/upload3/news_pl/picture/328_geodeta_artykul6.jpg",
     },
     {
       name: "Jas",
       surname: "Lakos",
       content: "jakis opis",
-      image: "https://www.wig.wat.edu.pl/images/wladze/kedzierski_wladze.jpg",
+      image:
+        "https://geoforum.pl/upload3/news_pl/picture/328_geodeta_artykul6.jpg",
     },
   ];
   return (
